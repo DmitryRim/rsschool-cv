@@ -1,2 +1,2 @@
-https://DmitryRim.github.io/rsschool-cv/cv
-https://DmitryRim.github.io/rsschool-cv/
+- https://DmitryRim.github.io/rsschool-cv/cv
+- https://DmitryRim.github.io/rsschool-cv/
