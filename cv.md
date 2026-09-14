@@ -99,6 +99,7 @@ Currently studying the fundamentals of web development, programming, and compute
 * **HTML & CSS Basics** — completed
 * **Git & GitHub for Beginners** — completed
 * **JavaScript Fundamentals** — currently studying
+* **React** — completed
 
 ---
 
